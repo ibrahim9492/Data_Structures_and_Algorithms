@@ -121,26 +121,3 @@ Course 4: Algorithms on Strings [[Certificate]](https://www.coursera.org/account
   3. [Pattern Matching with the Suffix Array](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/4-Algorithms%20on%20Strings/Week4-Algorithmic%20Challenges/3-suffix%20array%20matching.py)
   4. [Advanced Problem: Construct the Suffix Tree from the Suffix Array](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/4-Algorithms%20on%20Strings/Week4-Algorithmic%20Challenges/4-suffix%20tree%20from%20array.py)
 
-Course 5: Advanced Algorithms and Complexity [[Certificate]](https://www.coursera.org/account/accomplishments/verify/A78PQPN5KJAB)
--
-
-**Flows in Networks**
-  1. [Evacuating People](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week1-Flows%20in%20Networks/1-max%20flow.py)
-  2. [Assigning Airline Crews to Flights](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week1-Flows%20in%20Networks/2-bipartite%20matching.py)
-  3. [Advanced Problem: Stock Charts](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week1-Flows%20in%20Networks/3-stock%20charts.py)
-
-**Linear Programming**
-  1. Infer Energy Values of Ingredients [[1]](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week2-Linear%20Programming/1-Gaussian%20Elimination.py) [[2]](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week2-Linear%20Programming/1b.py)
-  2. [Optimal Diet Problem](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week2-Linear%20Programming/2-LP%20brute%20force.py)
-  3. [Advanced Problem: Online Advertisement Allocation (Two-Phase Simplex)](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week2-Linear%20Programming/3-Two-Phase%20Simplex.py)
-
-**NP-completeness**
-  1. [Assign Frequencies to the Cells of a GSM Network](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week3-NP-completeness/1-3-color%20to%20SAT.py)
-  2. [Cleaning the Apartment](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week3-NP-completeness/2-Hamitonian%20path%20to%20SAT.py)
-  3. [Advanced Problem: Advertisement Budget Allocation](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week3-NP-completeness/3-binary%20LP%20to%20SAT.py)
-
-**Coping with NP-completeness**
-  1. [Integrated Circuit Design](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week4-Coping%20with%20NP-completeness/1-integrated%20circuit.py)
-  2. [Plan a Fun Party](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week4-Coping%20with%20NP-completeness/2-bidirectional%20edge.py)
-  3. [School Bus (Traveling Salesman)](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week4-Coping%20with%20NP-completeness/3-traveling%20salesman.py)
-  4. [Advanced Problem: Reschedule the Exams](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week4-Coping%20with%20NP-completeness/4-reschedule%20exam.py)
